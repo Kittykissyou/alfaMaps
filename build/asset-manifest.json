@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alfaMaps/static/css/main.b9740ccc.css",
+    "main.js": "/alfaMaps/static/js/main.504e862d.js",
+    "index.html": "/alfaMaps/index.html",
+    "main.b9740ccc.css.map": "/alfaMaps/static/css/main.b9740ccc.css.map",
+    "main.504e862d.js.map": "/alfaMaps/static/js/main.504e862d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9740ccc.css",
+    "static/js/main.504e862d.js"
+  ]
+}
