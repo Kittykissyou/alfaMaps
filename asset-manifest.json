@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/alfaMaps/static/css/main.d535b4aa.css",
-    "main.js": "/alfaMaps/static/js/main.26d8d8d6.js",
+    "main.css": "/alfaMaps/static/css/main.e8ab6f8d.css",
+    "main.js": "/alfaMaps/static/js/main.2ea451c6.js",
     "index.html": "/alfaMaps/index.html",
-    "main.d535b4aa.css.map": "/alfaMaps/static/css/main.d535b4aa.css.map",
-    "main.26d8d8d6.js.map": "/alfaMaps/static/js/main.26d8d8d6.js.map"
+    "main.e8ab6f8d.css.map": "/alfaMaps/static/css/main.e8ab6f8d.css.map",
+    "main.2ea451c6.js.map": "/alfaMaps/static/js/main.2ea451c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.d535b4aa.css",
-    "static/js/main.26d8d8d6.js"
+    "static/css/main.e8ab6f8d.css",
+    "static/js/main.2ea451c6.js"
   ]
 }
